@@ -74,6 +74,8 @@ Everything should be ready now. Open a web browser and navigate to the following
 
 http://<Your_VPS_IP_Address>:3000
 
+If you are installing with your own local PC, just type http://localhost:3000
+
 <img width="915" height="397" alt="roma 3" src="https://github.com/user-attachments/assets/e57441eb-bb83-4822-b9db-654fcacd4967" />
 
 
