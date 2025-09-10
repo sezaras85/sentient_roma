@@ -4,12 +4,12 @@ This guide provides step-by-step instructions on how to set up and run the Senti
 # Step 1: Install Dependencies
 First, you need to install the essential tools to run ROMA on your VPS. ROMA uses Docker containers, so you must have Docker and Git installed.
 
-'''Bash
+```Bash
 
 # For Ubuntu/Debian Guide: Running Sentient AGI ROMA on a VPS
 sudo apt update
 sudo apt install git docker.io -y
-'''
+```
 
 # Start the Docker service
 sudo systemctl start docker
