@@ -6,7 +6,7 @@ First, you need to install the essential tools to run ROMA on your VPS. ROMA use
 
 Bash
 
-# For Ubuntu/Debian
+# For Ubuntu/Debian Guide: Running Sentient AGI ROMA on a VPS
 sudo apt update
 sudo apt install git docker.io -y
 
@@ -48,7 +48,7 @@ Your VPS's default firewall (e.g., UFW) may block external access to ROMA's web 
 
 Bash
 
-# Allow incoming connections on port 3000
+# Allow incoming connections on  port 3000
 sudo ufw allow 3000/tcp
 
 # Enable the firewall (if it's not already enabled)
