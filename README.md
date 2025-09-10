@@ -36,7 +36,7 @@ cd ROMA
 ```
 The setup script will ask you to choose between Docker Installation and Native Installation. For stability and ease of use, select Docker Installation.
 
-Step 3: Start Docker Services
+# Step 3: Start Docker Services
 Once the setup is complete, you need to start ROMA's Docker containers. The docker-compose.yml file is not in the main directory, but in the docker subdirectory.
 
 
