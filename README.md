@@ -69,7 +69,7 @@ sudo ufw allow 3000/tcp
 sudo ufw enable
 ```
 
-Step 5: Access and Experience ROMA
+# Step 5: Access and Experience ROMA
 Everything should be ready now. Open a web browser and navigate to the following address:
 
 http://<Your_VPS_IP_Address>:3000
